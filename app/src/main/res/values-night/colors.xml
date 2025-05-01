@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Gece moduna uyarlanmış -->
+    <color name="anaRenk">#41685E</color>         <!-- Daha koyu yeşilimsi ton -->
+    <color name="yaziRenk1">#E0E0E0</color>       <!-- Açık gri tonlu yazı rengi -->
+    <color name="yaziRenk2">#CFCFCF</color>       <!-- Biraz daha koyu yazı rengi -->
+    <color name="kutuRenk">#2A2A2A</color>        <!-- Daha koyu kutu arka planı -->
+    <color name="arkaPlan">#121212</color>        <!-- Tipik dark mode arka plan rengi -->
+</resources>

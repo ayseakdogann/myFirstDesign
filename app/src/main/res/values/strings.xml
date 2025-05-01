@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="bookName">Notes From The Underground</string>
+    <string name="bookAuthor">Fyodor Dostoyevski </string>
+    <string name="bookType">World Classics,Literature</string>
+    <string name="bookPage">368 Page</string>
+    <string name="bookRating">8/10</string>
+    <string name="wantButton">Want To Read</string>
+    <string name="readButton">Read</string>
+    <string name="readingButton">"I'm reading"</string>
+</resources>
